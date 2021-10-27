@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**TSTranev20/TSTranev20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, my name is [Trani Tranev](https://github.com/TSTranev20/)
+## Talking about Personal Stuffs:
+  <img align="right" height="350" width="450" alt="" src="https://cdn.dribbble.com/users/885374/screenshots/6775990/comp_7.gif" />
+- &nbsp; I’m currently learning HTML5&CSS3 and C++ .
+- &nbsp; Most of my projects are available on [Github](https://github.com/TSTranev20?tab=repositories).
+- I’m currently studying in [PGKPI][https://codingburgas.org/]
+- How to reach me: TSTranev20@codingburgas.bg
+<hr>
+Languages and Tools:
+<code><img alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
+<code><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
+<code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
+<details>
+  
+### Connect with me:
+  <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<br>
+  <summary><b>Badges</b></summary>
+  <code><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
+</details>  
