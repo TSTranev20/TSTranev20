@@ -22,6 +22,11 @@ Connect with me:
   <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <br>
 <details>
+    <summary><b>💯 Grade</b></summary>
+    <img alt="Grade" src="https://github-readme-stats.vercel.app/api?username=TSTranev20&show_icons=true&theme=radical&count_private=true">
+</details>
+<br>
+<details>
   <summary><b>『🏅』Badges</b></summary>
   <br>
   <code><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
